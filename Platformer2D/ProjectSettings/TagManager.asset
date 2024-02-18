@@ -11,22 +11,22 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Enemy
+  - Player
+  - PlayerHitBox
+  - EnemyHitBox
+  - GroundDetection
+  - PickUp
+  - BackGround
+  - NoCollissionSortLayer
+  - Pendulums
+  - HorizontalMovementPlatforms
+  - VerticalMovementPlatforms
+  - LaserBeamer
+  - DeathZone
+  - WrapsDamage
+  - EndLevelPoint
   - 
   - 
   - 
@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 
+    uniqueID: 935413963
+    locked: 0
+  - name: 
+    uniqueID: 2023579193
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

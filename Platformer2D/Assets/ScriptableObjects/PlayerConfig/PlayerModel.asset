@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c211bb6d01584e968ebafbd40e81d0a, type: 3}
+  m_Name: PlayerModel
+  m_EditorClassIdentifier: 
+  <WalkSpeed>k__BackingField: 5
+  <RunSpeed>k__BackingField: 8
+  <IdleSpeed>k__BackingField: 0
+  <JumpImpulse>k__BackingField: 10
+  <AirWalkSpeed>k__BackingField: 3
+  <Health>k__BackingField: 100
+  <MaxHealth>k__BackingField: 100
+  <InvicibilityTime>k__BackingField: 0.25
+  <AttackDamage>k__BackingField: 10
+  <KnockBack>k__BackingField: {x: 1, y: 0}
+  <AttackDamage2>k__BackingField: 15
+  <KnockBack2>k__BackingField: {x: 2, y: 0}
+  <AttackDamage3>k__BackingField: 25
+  <KnockBack3>k__BackingField: {x: 5, y: 0}
+  <ArrowPrefab>k__BackingField: {fileID: 3585147642069016572, guid: 036f66f32c09e4468a0a2c68c847b31e, type: 3}
+  <DamageArrow>k__BackingField: 1
+  <MoveSpeedArrow>k__BackingField: {x: 15, y: 0}
+  <KnockBackArrow>k__BackingField: {x: 5, y: 0}
+  <AirAttackDamage1>k__BackingField: 12
+  <AirKnockback1>k__BackingField: {x: 1, y: 0}
+  <AirAttackDamage2>k__BackingField: 15
+  <AirKnockback2>k__BackingField: {x: 1, y: 0}
+  <AttackAudioClip>k__BackingField: {fileID: 8300000, guid: 709bdd9b3170940de9a9d3f2f8b3f5e2, type: 3}
+  <DeathAudioClip>k__BackingField: {fileID: 8300000, guid: bdf972654ff4c40a5ac74eb2768a3f5b, type: 3}
+  <BowAttackAudioClip>k__BackingField: {fileID: 8300000, guid: ad30488b70c0e4339afbe3aecca8b6c6, type: 3}
+  <HitAudioClip>k__BackingField: {fileID: 8300000, guid: 894e4134c8b05487683514c0c1d37147, type: 3}
+  <HealAudioClip>k__BackingField: {fileID: 8300000, guid: c26aa1b1c9c3b44e7859adc969de358d, type: 3}
+  <CoinsCount>k__BackingField: 15

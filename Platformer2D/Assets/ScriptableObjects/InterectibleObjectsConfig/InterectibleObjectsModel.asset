@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1d2f34abad84aed9a06185b5f52d04, type: 3}
+  m_Name: InterectibleObjectsModel
+  m_EditorClassIdentifier: 
+  UIHealthPickUpModel: {fileID: 11400000, guid: 4a56ec41f74b44970979f38fa3fed35b, type: 2}
+  WrapsModel: {fileID: 11400000, guid: 629878dc9645e4be2a4bf07c4d9c92ce, type: 2}
+  CoinModel: {fileID: 11400000, guid: f8e3fb21f040e463ebd6a982136ee47e, type: 2}

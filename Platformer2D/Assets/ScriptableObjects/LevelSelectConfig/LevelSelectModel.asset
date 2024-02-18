@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eac7a5c616ea747bda0ec65be15eed0e, type: 3}
+  m_Name: LevelSelectModel
+  m_EditorClassIdentifier: 
+  Maps:
+  - {fileID: 11400000, guid: 8c43d933d164d4ea8b17e9b6ec6b9c85, type: 2}
+  - {fileID: 11400000, guid: 13509d1bdb8144107bdd3e06c9ce2b70, type: 2}
+  - {fileID: 11400000, guid: 36d69ab8e23fe404fa6ac5e21511e573, type: 2}

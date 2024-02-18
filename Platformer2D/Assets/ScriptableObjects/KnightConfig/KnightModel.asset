@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313f5e7b5ee0149e79ebbee78078acd2, type: 3}
+  m_Name: KnightModel
+  m_EditorClassIdentifier: 
+  <WalkSpeed>k__BackingField: 5
+  <WalkIdle>k__BackingField: 0
+  <WalkStopRate>k__BackingField: 0.05
+  <Health>k__BackingField: 100
+  <MaxHealth>k__BackingField: 100
+  <InvicibilityTime>k__BackingField: 0.25
+  <AttackDamage>k__BackingField: 10
+  <KnockBack>k__BackingField: {x: 2, y: 2}
+  <DeathAudioClip>k__BackingField: {fileID: 8300000, guid: bdf972654ff4c40a5ac74eb2768a3f5b, type: 3}
+  <HitAudioClip>k__BackingField: {fileID: 8300000, guid: 894e4134c8b05487683514c0c1d37147, type: 3}
